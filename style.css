@@ -99,7 +99,7 @@ ul {
     padding: 0; }
 
 .bg-overlay {
-  position: relative;
+  position: relative;abou
   z-index: 1; }
   .bg-overlay::after {
     position: absolute;
@@ -117,7 +117,7 @@ ul {
   .bg-gradient-overlay::after {
     position: absolute;
     content: "";
-    height: 100%;
+    height: 100%;abou
     width: 100%;
     top: 0;
     left: 0;
@@ -1162,9 +1162,9 @@ input:required {
   z-index: 1;
   background-color: #025e07; }
   .about-us-countdown-area .about-content-text h6 {
-    font-size: 14px;
+    font-size: 20px;
     font-weight: 500;
-    color: #ff0000;
+    color: #ffffff;
     text-transform: uppercase;
     letter-spacing: 1px;
     border-bottom: 2px solid #ffffff;
